@@ -1,4 +1,4 @@
-# 🗑️ Waste Classification with CNN
+# Waste Classification with CNN
 
 This project uses a Convolutional Neural Network (CNN) to classify waste into different categories using image data. The model is implemented in TensorFlow/Keras and trained on labeled image datasets.
 
